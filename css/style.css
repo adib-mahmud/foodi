@@ -7,7 +7,9 @@
   width: 1420px;
   margin: 0 auto;
 }
-
+html::-webkit-scrollbar {
+  display: none;
+}
 /* Common CSS property for section title start  */
 /* .title{
     text-align: center;
